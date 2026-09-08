@@ -1,0 +1,34 @@
+{
+  "NATS_Latency_Test" : {
+    "transaction" : "NATS_Latency_Test",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 928.0,
+    "medianResTime" : 931.5,
+    "minResTime" : 478.0,
+    "maxResTime" : 1369.0,
+    "pct1ResTime" : 1359.8,
+    "pct2ResTime" : 1369.0,
+    "pct3ResTime" : 1369.0,
+    "throughput" : 7.299270072992701,
+    "receivedKBytesPerSec" : 0.1283074817518248,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 928.0,
+    "medianResTime" : 931.5,
+    "minResTime" : 478.0,
+    "maxResTime" : 1369.0,
+    "pct1ResTime" : 1359.8,
+    "pct2ResTime" : 1369.0,
+    "pct3ResTime" : 1369.0,
+    "throughput" : 7.299270072992701,
+    "receivedKBytesPerSec" : 0.1283074817518248,
+    "sentKBytesPerSec" : 0.0
+  }
+}

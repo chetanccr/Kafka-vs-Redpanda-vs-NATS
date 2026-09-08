@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4358.2,
+    "medianResTime" : 4367.5,
+    "minResTime" : 3674.0,
+    "maxResTime" : 5060.0,
+    "pct1ResTime" : 5050.3,
+    "pct2ResTime" : 5060.0,
+    "pct3ResTime" : 5060.0,
+    "throughput" : 1.9409937888198758,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Redpanda_E2E_Latency" : {
+    "transaction" : "Redpanda_E2E_Latency",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4358.2,
+    "medianResTime" : 4367.5,
+    "minResTime" : 3674.0,
+    "maxResTime" : 5060.0,
+    "pct1ResTime" : 5050.3,
+    "pct2ResTime" : 5060.0,
+    "pct3ResTime" : 5060.0,
+    "throughput" : 1.9409937888198758,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  }
+}

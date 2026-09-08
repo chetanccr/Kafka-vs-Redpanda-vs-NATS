@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 974.2999999999998,
+    "medianResTime" : 976.0,
+    "minResTime" : 520.0,
+    "maxResTime" : 1416.0,
+    "pct1ResTime" : 1406.7,
+    "pct2ResTime" : 1416.0,
+    "pct3ResTime" : 1416.0,
+    "throughput" : 7.062146892655367,
+    "receivedKBytesPerSec" : 0.12413930084745764,
+    "sentKBytesPerSec" : 0.0
+  },
+  "JetStream_Latency_Test" : {
+    "transaction" : "JetStream_Latency_Test",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 974.2999999999998,
+    "medianResTime" : 976.0,
+    "minResTime" : 520.0,
+    "maxResTime" : 1416.0,
+    "pct1ResTime" : 1406.7,
+    "pct2ResTime" : 1416.0,
+    "pct3ResTime" : 1416.0,
+    "throughput" : 7.062146892655367,
+    "receivedKBytesPerSec" : 0.12413930084745764,
+    "sentKBytesPerSec" : 0.0
+  }
+}

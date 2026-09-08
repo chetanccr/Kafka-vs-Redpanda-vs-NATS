@@ -1,0 +1,34 @@
+{
+  "Kafka_E2E_Latency" : {
+    "transaction" : "Kafka_E2E_Latency",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 5656.9000000000015,
+    "medianResTime" : 5697.5,
+    "minResTime" : 5077.0,
+    "maxResTime" : 6326.0,
+    "pct1ResTime" : 6311.1,
+    "pct2ResTime" : 6326.0,
+    "pct3ResTime" : 6326.0,
+    "throughput" : 1.547029702970297,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 5656.9000000000015,
+    "medianResTime" : 5697.5,
+    "minResTime" : 5077.0,
+    "maxResTime" : 6326.0,
+    "pct1ResTime" : 6311.1,
+    "pct2ResTime" : 6326.0,
+    "pct3ResTime" : 6326.0,
+    "throughput" : 1.547029702970297,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  }
+}
