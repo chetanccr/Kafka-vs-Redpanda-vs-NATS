@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 23.31220000000001,
+    "medianResTime" : 24.0,
+    "minResTime" : 7.0,
+    "maxResTime" : 125.0,
+    "pct1ResTime" : 33.0,
+    "pct2ResTime" : 36.0,
+    "pct3ResTime" : 42.0,
+    "throughput" : 2050.440844781628,
+    "receivedKBytesPerSec" : 2050.440844781628,
+    "sentKBytesPerSec" : 2050.440844781628
+  },
+  "Redpanda-Test-B-5-Keys" : {
+    "transaction" : "Redpanda-Test-B-5-Keys",
+    "sampleCount" : 10000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 23.31220000000001,
+    "medianResTime" : 24.0,
+    "minResTime" : 7.0,
+    "maxResTime" : 125.0,
+    "pct1ResTime" : 33.0,
+    "pct2ResTime" : 36.0,
+    "pct3ResTime" : 42.0,
+    "throughput" : 2050.440844781628,
+    "receivedKBytesPerSec" : 2050.440844781628,
+    "sentKBytesPerSec" : 2050.440844781628
+  }
+}

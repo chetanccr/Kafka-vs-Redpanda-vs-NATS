@@ -1,0 +1,34 @@
+{
+  "Kafka-Test-A-1-Key" : {
+    "transaction" : "Kafka-Test-A-1-Key",
+    "sampleCount" : 10000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 29.622599999999988,
+    "medianResTime" : 28.0,
+    "minResTime" : 17.0,
+    "maxResTime" : 210.0,
+    "pct1ResTime" : 35.0,
+    "pct2ResTime" : 38.0,
+    "pct3ResTime" : 50.0,
+    "throughput" : 1949.6977968414894,
+    "receivedKBytesPerSec" : 1949.6977968414897,
+    "sentKBytesPerSec" : 1949.6977968414897
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 29.622599999999988,
+    "medianResTime" : 28.0,
+    "minResTime" : 17.0,
+    "maxResTime" : 210.0,
+    "pct1ResTime" : 35.0,
+    "pct2ResTime" : 38.0,
+    "pct3ResTime" : 50.0,
+    "throughput" : 1949.6977968414894,
+    "receivedKBytesPerSec" : 1949.6977968414897,
+    "sentKBytesPerSec" : 1949.6977968414897
+  }
+}

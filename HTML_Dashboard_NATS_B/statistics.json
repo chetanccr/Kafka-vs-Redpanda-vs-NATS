@@ -1,0 +1,34 @@
+{
+  "NATS-Test-B-5-Subjects" : {
+    "transaction" : "NATS-Test-B-5-Subjects",
+    "sampleCount" : 10000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 452.235199999999,
+    "medianResTime" : 472.0,
+    "minResTime" : 343.0,
+    "maxResTime" : 510.0,
+    "pct1ResTime" : 499.0,
+    "pct2ResTime" : 505.0,
+    "pct3ResTime" : 510.0,
+    "throughput" : 13698.630136986301,
+    "receivedKBytesPerSec" : 13698.630136986301,
+    "sentKBytesPerSec" : 13698.630136986301
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 452.235199999999,
+    "medianResTime" : 472.0,
+    "minResTime" : 343.0,
+    "maxResTime" : 510.0,
+    "pct1ResTime" : 499.0,
+    "pct2ResTime" : 505.0,
+    "pct3ResTime" : 510.0,
+    "throughput" : 13698.630136986301,
+    "receivedKBytesPerSec" : 13698.630136986301,
+    "sentKBytesPerSec" : 13698.630136986301
+  }
+}
