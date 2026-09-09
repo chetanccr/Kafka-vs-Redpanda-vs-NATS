@@ -1,0 +1,34 @@
+{
+  "Redpanda_Consumer_Sampler" : {
+    "transaction" : "Redpanda_Consumer_Sampler",
+    "sampleCount" : 250,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 113.18400000000004,
+    "medianResTime" : 82.0,
+    "minResTime" : 61.0,
+    "maxResTime" : 1776.0,
+    "pct1ResTime" : 121.0,
+    "pct2ResTime" : 143.79999999999995,
+    "pct3ResTime" : 1484.0000000000018,
+    "throughput" : 41.555851063829785,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 250,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 113.18400000000004,
+    "medianResTime" : 82.0,
+    "minResTime" : 61.0,
+    "maxResTime" : 1776.0,
+    "pct1ResTime" : 121.0,
+    "pct2ResTime" : 143.79999999999995,
+    "pct3ResTime" : 1484.0000000000018,
+    "throughput" : 41.555851063829785,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  }
+}

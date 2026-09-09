@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1392.7800000000002,
+    "medianResTime" : 536.5,
+    "minResTime" : 68.0,
+    "maxResTime" : 30237.0,
+    "pct1ResTime" : 564.5,
+    "pct2ResTime" : 7498.949999999943,
+    "pct3ResTime" : 30237.0,
+    "throughput" : 0.7211573132563137,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Kafka_Consumer_Sampler" : {
+    "transaction" : "Kafka_Consumer_Sampler",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1392.7800000000002,
+    "medianResTime" : 536.5,
+    "minResTime" : 68.0,
+    "maxResTime" : 30237.0,
+    "pct1ResTime" : 564.5,
+    "pct2ResTime" : 7498.949999999943,
+    "pct3ResTime" : 30237.0,
+    "throughput" : 0.7211573132563137,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  }
+}
