@@ -1,0 +1,34 @@
+{
+  "NATS_JS_Cli_Sampler" : {
+    "transaction" : "NATS_JS_Cli_Sampler",
+    "sampleCount" : 5,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 910.0,
+    "medianResTime" : 910.0,
+    "minResTime" : 503.0,
+    "maxResTime" : 1304.0,
+    "pct1ResTime" : 1304.0,
+    "pct2ResTime" : 1304.0,
+    "pct3ResTime" : 1304.0,
+    "throughput" : 3.7965072133637054,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 5,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 910.0,
+    "medianResTime" : 910.0,
+    "minResTime" : 503.0,
+    "maxResTime" : 1304.0,
+    "pct1ResTime" : 1304.0,
+    "pct2ResTime" : 1304.0,
+    "pct3ResTime" : 1304.0,
+    "throughput" : 3.7965072133637054,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  }
+}
