@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 14.996000000000011,
+    "medianResTime" : 7.0,
+    "minResTime" : 2.0,
+    "maxResTime" : 1756.0,
+    "pct1ResTime" : 12.0,
+    "pct2ResTime" : 14.0,
+    "pct3ResTime" : 19.99000000000001,
+    "throughput" : 280.8199943836001,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Acks_Sampler" : {
+    "transaction" : "Acks_Sampler",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 14.996000000000011,
+    "medianResTime" : 7.0,
+    "minResTime" : 2.0,
+    "maxResTime" : 1756.0,
+    "pct1ResTime" : 12.0,
+    "pct2ResTime" : 14.0,
+    "pct3ResTime" : 19.99000000000001,
+    "throughput" : 280.8199943836001,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  }
+}
